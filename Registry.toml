@@ -1,0 +1,6 @@
+name = "cbiojulia"
+uuid = "9aec842c-2ad0-4039-9545-7c6bebe61b6b"
+repo = "git@github.com:Computational-Biology-TUe/CbioJulia.git"
+description = "Computational Biology Private Julia Registry"
+
+[packages]
