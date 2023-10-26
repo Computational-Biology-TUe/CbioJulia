@@ -4,3 +4,4 @@ repo = "git@github.com:Computational-Biology-TUe/CbioJulia.git"
 description = "Computational Biology Private Julia Registry"
 
 [packages]
+eedfb5d8-ec7d-4792-bf75-d1e748dd39dd = { name = "CbioColors", path = "C/CbioColors" }
